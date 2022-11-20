@@ -13,9 +13,6 @@ Ik ben er jammer genoeg niet in geslaagd om een volledig werkende front-end te m
 * Hosted API link: https://randomizer-service-jentelliekens.cloud.okteto.net
 * Hosted front-end link: https://jentelliekens.sinners.be/
 
-    - Python 3+ / FastApi / Uvicorn / aiohttp
-    - Postgres / SqlAlchemy(ORM) / Alembic(Migrations) / psycopg2(db Driver)
-
 ## Screenshots OpenAPI docs
 * Overzicht van alle opties ![OpenAPI_overzicht.PNG](Afbeeldingen/OpenAPI_overzicht.PNG)
 * Het toevoegen van een speler aan de database ![Post.PNG](Afbeeldingen/Post.PNG)
